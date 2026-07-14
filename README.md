@@ -26,7 +26,7 @@
 <hr>
  
 <h1> AI 챗 생성형 사이트 </h1>
-   <h2>구글 사이트 </h2>h
+   <h2>구글 사이트 </h2>
    <h2>https://www.google.com/?hl=ko </h2>
    <h2>ChatGPT 사이트</h2> 
    <h2>https://chatgpt.com/</h2>
@@ -35,19 +35,15 @@
    <h2>위아이</h2>
    <h2>https://weeai.kr/</h2>
    <h2>클로드</h2>
-   <h2> https://claude.ai/</h2>
-  
-
+   <h2> https://claude.ai/</h2> 
 <hr>
-<h1>미리캔버스</h1>
+<h1> 디자인 사이트 </h1>
+<h2>미리캔버스</h2>
 <h2 ><a href="https://www.miricanvas.com/ko" style="color:red;">미리캔버스</a></h2>
-<hr>
-<h1>Figma 다운로드</h1>
+<h2>Figma</h2>
 <h2 ><a href="https://www.figma.com/ko-kr/downloads/" style="color:red;">Figma 다운로드</a></h2>
 <hr>
 
-
-<hr>
 <h1>교재 Figma 2장</h1>
 <h2 ><a href="https://www.figma.com/community/file/1597170496120547339" style="color:red;">교재 Figma 2장<a></h2>
 <hr>
@@ -63,7 +59,6 @@
 <h2 ><a href="https://www.figma.com/community/file/1597172195185184799" style="color:red;">교재 Figma 3장<a></h2>
 <hr>
 
-
 <hr>
 <h1>교재 Figma 4장</h1>
 <h2 ><a href="https://www.figma.com/community/file/1597173004109963305" style="color:red;">교재 Figma 4장<a></h2>
@@ -75,9 +70,6 @@
  
 <h1>무료이미지 다운로드 사이트</h1>
 <h2 ><a href="https://www.pexels.com/ko-kr/" style="color:red;">무료이미지 다운로드 사이트장<a></h2>
-
-<hr>
-
 
 <hr>
 <h1>교재 Figma 5장</h1>
