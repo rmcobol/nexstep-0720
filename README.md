@@ -1,12 +1,7 @@
 <h1><수업전 설문조사></h1>
-<h2 ><a href="https://naver.me/GjydVv5o" style="color:red;">설문조사 클릭해 주세요.</a></h2>
+<h2 ><a href="https://naver.me/FWTUmpiB" style="color:red;">설문조사 클릭해 주세요.</a></h2>
 <hr>
-<h1><훈련생 인트라넷></h1>
-<h2 ><a href="https://www.cctechschool.co.kr/main/index.jsp" style="color:red;">훈련생 인트라넷</a></h2>
 
-<hr>
- <h1>한컴 타자 연습</h1>
-https://www.hancomtaja.com/ko#main__taja
  <hr>
   **chrome->크롬 설치하고 환경설정**<br>
   https://www.google.com/intl/ko_kr/chrome/ <br>
