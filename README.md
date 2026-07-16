@@ -19,6 +19,6 @@
 <h2 ><a href="https://pixabay.com/ko/" style="color:red;">무료영상 다운로드 사이트<a></h2>
  
 <h1>무료이미지 다운로드 사이트</h1>
-<h2 ><a href="https://www.pexels.com/ko-kr/" style="color:red;">무료이미지 다운로드 사이트장<a></h2>
+<h2 ><a href="https://www.pexels.com/ko-kr/" style="color:red;">무료이미지 다운로드 사이트<a></h2>
 
 <hr>
