@@ -13,3 +13,12 @@
  5. 다른 사람의 pc나 공용pc에서는 시크릿 모드를 사용<br>   
     chrome 에서 ---> Ctrl + Shift + N (단축키)--> 시크릿 모드로 변환
 <hr>
+
+<hr>
+<h1>무료영상 다운로드 사이트</h1>
+<h2 ><a href="https://pixabay.com/ko/" style="color:red;">무료영상 다운로드 사이트<a></h2>
+ 
+<h1>무료이미지 다운로드 사이트</h1>
+<h2 ><a href="https://www.pexels.com/ko-kr/" style="color:red;">무료이미지 다운로드 사이트장<a></h2>
+
+<hr>
