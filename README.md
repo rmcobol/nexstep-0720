@@ -13,6 +13,9 @@
  5. 다른 사람의 pc나 공용pc에서는 시크릿 모드를 사용<br>   
     chrome 에서 ---> Ctrl + Shift + N (단축키)--> 시크릿 모드로 변환
 
+<hr>
+<h1>WeeAI</h1>
+<h2 ><a href="nexstep.weeai.kr" style="color:red;">weeai 유료 사이트<a></h2>
 
 <hr>
 <h1>무료영상 다운로드 사이트</h1>
