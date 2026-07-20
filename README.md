@@ -15,7 +15,7 @@
 
 <hr>
 <h1>WeeAI</h1>
-<h2 ><a href="nexstep.weeai.kr" style="color:red;">weeai 유료 사이트<a></h2>
+<h2 ><a href="https://nexstep.weeai.kr" style="color:red;">weeai 유료 사이트<a></h2>
 
 <hr>
 <h1>무료영상 다운로드 사이트</h1>
