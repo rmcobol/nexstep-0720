@@ -6,11 +6,14 @@
    <h2>https://chatgpt.com/</h2>
    <h2>Gemini 사이트</h2> 
    <h2>https://gemini.google.com/app?hl=ko</h2>
+   <h2>노트북 LM</h2> 
+   <h2>https://notebooklm.google/?hl=ko</h2>
    <h2>위아이</h2>
    <h2>https://weeai.kr/</h2>
    <h2>클로드</h2>
    <h2> https://claude.ai/</h2> 
 <hr>
+
 
 
 <h1>제미나이 개인별 맞춤 AI</h1>
