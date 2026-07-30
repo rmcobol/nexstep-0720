@@ -1,0 +1,6 @@
+<<많이 사용하는 플러그인>>
+
+1. styler(스타일지정)
+2. Foundation(색깔지정)
+3. Iconify(아이콘)
+4. Unsplash(이미지)
