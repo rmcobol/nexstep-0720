@@ -4,6 +4,11 @@
    <h2>https://code.visualstudio.com/</h2>
    <h2>github 회원가입</h2>
    <h2>https://github.com</h2>
+
+   <h2>폰트어썸(free icon)</h2>
+   <h2>https://fontawesome.com/</h2>
+
+   
    <h2>노드JS 설치</h2>
    <h2> https://nodejs.org/ko/</h2>
    <h2>git 설치</h2>
