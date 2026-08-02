@@ -5,6 +5,12 @@
 <h2 ><a href="https://www.figma.com/ko-kr/downloads/" style="color:red;">Figma 다운로드</a></h2>
 <hr>
 
+
+
+<h1>교재 Figma 1장</h1>
+<h2 ><a href="https://www.figma.com/community/file/1597160086979968941/10-01" style="color:red;">교재 Figma 1장<a></h2>
+<hr>
+
 <h1>교재 Figma 2장</h1>
 <h2 ><a href="https://www.figma.com/community/file/1597170496120547339" style="color:red;">교재 Figma 2장<a></h2>
 <hr>
