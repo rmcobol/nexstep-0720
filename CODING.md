@@ -17,7 +17,7 @@
    <h2>노드JS 설치</h2>
    <h2> https://nodejs.org/ko/</h2>
    <h2>git 설치</h2>
-   <h2>https://git-scm.com/ </h2>
+   <h2>https://git-scm.com/install/windows </h2>
    <h2>python </h2>
    <h2>https://www.python.org/downloads/windows/</h2>
 
