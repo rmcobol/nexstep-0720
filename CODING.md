@@ -11,13 +11,18 @@
    <h2>구글 폰트</h2>
    <h2> https://fonts.google.com/</h2>
 
-  
+   <h2>git 설치</h2>
+   <h2>https://git-scm.com/install/windows </h2>
+   
+   <h2>claude Code 소개 페이지</h2>
+   <h2>https://code.claude.com/docs/ko/overview </h2>
 
    
    <h2>노드JS 설치</h2>
    <h2> https://nodejs.org/ko/</h2>
-   <h2>git 설치</h2>
-   <h2>https://git-scm.com/install/windows </h2>
+   
+
+   
    <h2>python </h2>
    <h2>https://www.python.org/downloads/windows/</h2>
 
