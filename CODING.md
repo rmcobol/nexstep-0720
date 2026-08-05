@@ -17,6 +17,11 @@
    <h2>claude Code 소개 페이지</h2>
    <h2>https://code.claude.com/docs/ko/overview </h2>
 
+   <h2>Netlify 배포(웹호스팅)</h2>
+   <h2>https://www.netlify.com/ </h2>
+
+
+
    
    <h2>노드JS 설치</h2>
    <h2> https://nodejs.org/ko/</h2>
