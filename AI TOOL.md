@@ -2,7 +2,7 @@
 <h2>https://mail.cdsai.kr/mail/</h2>
 <hr>
 <h2>생성 이메일(ID):nexstep@cdsai.kr</h2>
-<h2>성명:넥스텝r</h2>
+<h2>성명:넥스텝</h2>
 <h2>닉네임:넥스텝</h2>
 <h2>비밀번호:NexsG00d!@#$</h2>
 <hr>
