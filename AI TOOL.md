@@ -6,7 +6,7 @@
    <h2> https://claude.ai/</h2> 
  <h2>클로드 PRO</h2>
    <h2> https://claude.ai/</h2> 
-     <h2>클로드 PRO</h2>
+     <h2>버블</h2>
    <h2> https://bubble.io/</h2> 
 <hr>
 
