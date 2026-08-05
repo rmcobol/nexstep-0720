@@ -1,3 +1,14 @@
+<hr>
+<h1> 바이브 코딩 및 노코드 </h1>
+   <h2>위아이</h2>
+   <h2>https://weeai.kr/</h2>
+   <h2>클로드 PRO</h2>
+   <h2> https://claude.ai/</h2> 
+
+    <h2>버블(bubble.io)</h2>
+   <h2> https://bubble.io/</h2> 
+<hr>
+
 
 <h1> AI 챗 생성형 사이트 </h1>
    <h2>구글 사이트 </h2>
@@ -8,10 +19,8 @@
    <h2>https://gemini.google.com/app?hl=ko</h2>
    <h2>노트북 LM</h2> 
    <h2>https://notebooklm.google/?hl=ko</h2>
-   <h2>위아이</h2>
-   <h2>https://weeai.kr/</h2>
-   <h2>클로드</h2>
-   <h2> https://claude.ai/</h2> 
+   
+  
 <hr>
 
 
