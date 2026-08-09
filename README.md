@@ -14,6 +14,12 @@
    <h2>https://weeai.kr/</h2>
    <h2>클로드 PRO</h2>
    <h2> https://claude.ai/</h2> 
+
+   <hr>
+    <h2>바이브 코딩 한빛 출판사(교재) 수업자료</h2>
+   <h2>https://github.com/taehojo/vibecoding </h2> 
+     
+   <hr>
 <h2>클로드 API</h2>
    <h2>  https://platform.claude.com/login?returnTo=%2F%3F</h2> 
   
