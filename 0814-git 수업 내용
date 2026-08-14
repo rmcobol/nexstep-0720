@@ -1,0 +1,28 @@
+<버전관리>
+
+버전 관리가 필요한 이유
+- AI의 실수를 간단히 롤백 할 수 있다.
+- 마음에 들지 않는 변경사항을 쉽게 취소 할 수 있다.
+- AI한테 권한을 더 넘겨주기 위해
+
+
+1. git 설치
+2. git --version
+3. git config --global user.name "lst" ->이름 등록
+4. git config --global user.email "rmcobol@hanmail.net" ->이메일
+5. git init => 초기화 작업 / 버전관리 저장소 만든다.
+             => 버전기록을 저장하는 저장소
+6. ls -force => 현재 목록 출력(숨겨져 있는 거도 보인다.)
+
+- gith으로 버전관리
+
+- git revert 번관관리 ID값을 붙여넣기
+
+- gith 소개 및 연동
+- githhub 사용하기(push,pull,clone)
+ 
+push=> 로컬에 새 커밋이 생기면
+pull=> 리모트에 새 커밋이 생겼으면
+clone=> 처음부터 받아와야 한다면
+
+- AI에게 안전하게 권한 부여하기
