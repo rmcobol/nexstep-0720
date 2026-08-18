@@ -14,9 +14,9 @@
              => 버전기록을 저장하는 저장소
 6. ls -force => 현재 목록 출력(숨겨져 있는 거도 보인다.)
 
-- gith으로 버전관리
+- git으로 버전관리
 
-- git revert 번관관리 ID값을 붙여넣기
+- git revert 버전관리 ID값을 붙여넣기
 
 - gith 소개 및 연동
 - githhub 사용하기(push,pull,clone)
@@ -24,5 +24,6 @@
 push=> 로컬에 새 커밋이 생기면
 pull=> 리모트에 새 커밋이 생겼으면
 clone=> 처음부터 받아와야 한다면
+    ==>git clone 깃허브 url 폴더명
 
 - AI에게 안전하게 권한 부여하기
