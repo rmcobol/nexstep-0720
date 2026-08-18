@@ -24,7 +24,7 @@
 
    
    <h2>노드JS 설치</h2>
-   <h2> https://nodejs.org/ko/</h2>
+   <h2> https://nodejs.org/ko/download</h2>
    
 
    
