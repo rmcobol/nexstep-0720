@@ -1,0 +1,20 @@
+====>AI 권한 첨부 파일
+
+./claude/settings.json
+
+
+{
+  "permissions": {
+    "allow": [
+      "Edit",
+      "Write",
+      "Read",
+      "Bash(ls *)",
+      "Bash(rm *)",
+      "Bash(mv *)",
+      "Bash(cp *)",
+      "Bash(mkdir *)",
+      "Bash(touch *)"
+    ]
+  }
+}
