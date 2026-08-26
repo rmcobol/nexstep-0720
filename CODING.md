@@ -26,6 +26,9 @@
    <h2>노드JS 설치</h2>
    <h2> https://nodejs.org/ko/download</h2>
    
+   <h2>데이터베이스(Supabase)</h2>
+   <h2>https://supabase.com/ </h2>
+
 
    
    <h2>python </h2>
