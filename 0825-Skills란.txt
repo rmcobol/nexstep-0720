@@ -1,0 +1,25 @@
+Skills란?
+
+Claude가 앞으로 지켜야될 매뉴얼
+일관된 작업 방식을 보장
+
+>>>> 디자인 테마 문서를 Skill로 등록 해서 사용
+
+.claude 폴더안에
+  =>skills 폴더 생성==>안에
+  =>design-theme 폴더 생성==>안에
+  =>SKILL.md 파일 생성
+ 
+ 다운로드 한 파일중==>notion.md 파일을
+==>SKILL.md 파일에 붙여 넣는다.
+
+===> claude에서 확인
+
+/skills 에서 확인==>logout 후 다시 claude 실행
+
+플롬프트로.....
+==>디자인을 이쁘게 수정해줘.
+
+
+====>
+githgu로 커밋==>skills로 디자인 테마 수정
