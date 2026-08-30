@@ -21,8 +21,7 @@
    <h2>https://www.netlify.com/ </h2>
 
 
-
-   
+  
    <h2>노드JS 설치</h2>
    <h2> https://nodejs.org/ko/download</h2>
    
@@ -32,7 +31,8 @@
   <h2>카카오(디벨로퍼스)</h2>
    <h2>https://developers.kakao.com/ </h2>
 
-
+   <h2>Vercel 배포(웹호스팅)</h2>
+   <h2>https://vercel.com/ </h2>
    
    <h2>python </h2>
    <h2>https://www.python.org/downloads/windows/</h2>
