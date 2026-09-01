@@ -1,6 +1,10 @@
 <h1><수업전 설문조사></h1>
 <h2 ><a href="https://naver.me/FWTUmpiB" style="color:red;">설문조사 클릭해 주세요.</a></h2>
 <hr>
+<h1><수업후 설문 만족도 조사></h1>
+<h2 ><a href="https://form.naver.com/response/86ygL4LcMz2" style="color:red;">설문 만족도 조사 클릭해 주세요.</a></h2>
+<hr>
+   
 <h1>메일 서버 주소</h1>
 <h2>https://mail.cdsai.kr/mail/</h2>
 <hr>
